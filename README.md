@@ -5,7 +5,6 @@
 
 [Live Project](https://kelvinparmar.github.io/Hulu-clone/)
 
-
 ## JavaScript
 
 [Project-1](https://github.com/kelvinparmar/100devs/tree/main/JavaScript/background-picker)
